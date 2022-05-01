@@ -29,3 +29,6 @@
 [submodule "views/archive/g/zork1"]
 	path = views/archive/g/zork1
 	url = https://github.com/jessicalevine/Adventure.js
+[submodule "views/archive"]
+	path = views/archive
+	url = https://github.com/TNT599/HU-Archive
